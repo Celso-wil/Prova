@@ -3,7 +3,7 @@ package atvterca;
 import java.util.Arrays;
 
 public class Ques9 {
-    String[] pupulacao = {"10101110","01001010","11101100","01100011","00110101","00100011","10011001","11011000"};
+    String[] pupulacao = {"10111110","01000010","10011100","01000011","01010101","00100111","10100101","11101000"};
 
     double[] iqq = new double[8];  String[] Bina = new String[8]; int[] Ca = new int[8];
 //para binario//
